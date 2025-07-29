@@ -16,8 +16,6 @@ A beautiful, Android-style weather application built with PyQt5 that provides re
 
 </div>
 
-![Screenshots][preview.png]
-
 
 ## ✨ Features
 
@@ -50,7 +48,7 @@ A beautiful, Android-style weather application built with PyQt5 that provides re
 
 | Welcome Screen | Weather Display | Details View |
 |:-------------:|:---------------:|:------------:|
-| ![Welcome](https://via.placeholder.com/300x500/667eea/ffffff?text=Welcome+Screen) | ![Weather](https://via.placeholder.com/300x500/667eea/ffffff?text=Weather+Display) | ![Details](https://via.placeholder.com/300x500/667eea/ffffff?text=Details+View) |
+| ![Welcome](preview.png) | ![Weather](weather.png) | ![Details](detail.png) |
 
 *Replace these placeholder images with actual screenshots of your app*
 
