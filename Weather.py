@@ -42,7 +42,7 @@ class ModernWeatherApp(QMainWindow):
         
     def initUI(self):
         self.setWindowTitle("Weather App")
-        self.setWindowIcon(QIcon("image.jpg"))
+        self.setWindowIcon(QIcon("icon.jpg"))
         self.setFixedSize(400, 700)
         self.setStyleSheet(self.get_main_stylesheet())
         
